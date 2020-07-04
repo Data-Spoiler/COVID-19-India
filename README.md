@@ -1,5 +1,5 @@
 # COVID-19-India
-This is the repository of my work on COVID 19 India data analysis.
+This is the repository of my work on COVID 19 India data analysis.<br/>
 For Dashboard, go to [website](https://data-spoiler.github.io/COVID-19-India/)
 
 ## Installation
