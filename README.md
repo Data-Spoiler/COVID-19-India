@@ -1,6 +1,6 @@
 # COVID-19-India
 This is the repository of my work on COVID 19 India data analysis.<br/>
-For Dashboard, go to [website](COVID 19 Case Study_ India.ipynb)
+For Dashboard, go to [website](COVID 19 Case Study_ India)
 
 ## Installation
 * Clone this repository:
